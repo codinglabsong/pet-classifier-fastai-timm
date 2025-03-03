@@ -1,0 +1,5 @@
+fastai
+gradio
+timm
+torch
+torchvision
