@@ -12,3 +12,9 @@ short_description: fast ai course lsn3
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+## Download Pre-trained Model
+
+The pre-trained model for this project is available as a release asset. You can download it from the [v1.0.0 release](https://github.com/codinglabsong/simple_pet_classifier/releases/tag/v1.0.0).
+
+Once downloaded, place the `model.pkl` file in the project directory as needed.
