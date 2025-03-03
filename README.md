@@ -141,4 +141,5 @@ This project is licensed under the [Apache License 2.0](https://www.apache.org/l
 
 ## Acknowledgements
 - Thanks to the communities behind [Fast.ai](https://www.fast.ai/), [Gradio](https://gradio.app/), [timm](https://github.com/rwightman/pytorch-image-models), and [Hugging Face](https://huggingface.co/) for their invaluable tools and support.
+- This project was inspired by the [Fast.ai Course](https://course.fast.ai/).
 - Special thanks to contributors and reviewers who help improve this project.
