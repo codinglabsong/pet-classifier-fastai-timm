@@ -66,6 +66,8 @@ pip install -r requirements.txt
 ```
 Note: If you work with large files locally, ensure Git LFS is set up as needed.
 
+---
+
 ## Usage
 
 ### Running the App Locally
@@ -78,10 +80,14 @@ python app.py
 ```
 The Gradio interface will launch in your browser.
 
+---
+
 ## Deploying on Hugging Face Spaces
 This repository is configured for deployment on Hugging Face Spaces. Visit the live app here:
 
 [Hugging Face Spaces App](https://huggingface.co/spaces/codinglabsong/simple_pet_classifier)
+
+---
 
 ## Example Output
 Below is an example output from the model when processing an image:
@@ -129,6 +135,8 @@ Below is an example output from the model when processing an image:
 ```
 Note: In this example, the 'basset_hound' probability is near 1, indicating the model's high confidence in that classification.
 
+---
+
 ## Links
 Hugging Face Spaces App:
 https://huggingface.co/spaces/codinglabsong/simple_pet_classifier
@@ -136,8 +144,12 @@ https://huggingface.co/spaces/codinglabsong/simple_pet_classifier
 Pre-trained Model Release:
 https://github.com/codinglabsong/simple_pet_classifier/releases/tag/v1.0.0
 
+---
+
 ## License
 This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+---
 
 ## Acknowledgements
 - Thanks to the communities behind [Fast.ai](https://www.fast.ai/), [Gradio](https://gradio.app/), [timm](https://github.com/rwightman/pytorch-image-models), and [Hugging Face](https://huggingface.co/) for their invaluable tools and support.
