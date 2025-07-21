@@ -1,6 +1,6 @@
 # Simple Pet Classifier 🌖
 
-A web application that classifies pet breeds from an input image using deep learning. This app uses Hugging Face Spaces, Fast.ai, Gradio, and timm to deliver real-time predictions.
+A web application that classifies pet breeds from an input image using deep learning. This app uses Hugging Face Spaces, Fast.ai, Gradio, and timm to deliver real-time predictions. You can view the live demo on [Hugging Face Spaces](https://huggingface.co/spaces/codinglabsong/simple_pet_classifier).
 
 ---
 
@@ -20,7 +20,7 @@ A web application that classifies pet breeds from an input image using deep lear
 
 ## Overview
 
-**Simple Pet Classifier** allows users to upload an image of a pet and receive a predicted breed. Whether you're a pet owner, veterinarian, or just curious, this app demonstrates how deep learning can be applied to image classification tasks.
+**Pet Classifier** allows users to upload an image of a pet and receive a predicted breed. Whether you're a pet owner, veterinarian, or just curious, this app demonstrates how deep learning can be applied to image classification tasks.
 
 ---
 
@@ -48,7 +48,7 @@ A web application that classifies pet breeds from an input image using deep lear
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/codinglabsong/simple_pet_classifier.git
+git clone https://github.com/codinglabsong/pet-classifier-fastai-gradio.git
 cd simple_pet_classifier
 ```
 
@@ -72,7 +72,7 @@ Note: If you work with large files locally, ensure Git LFS is set up as needed.
 
 ### Running the App Locally
 
-1. Download the Pre-trained Model: Download the model from the [v1.0.0 release](https://github.com/codinglabsong/simple_pet_classifier/releases/tag/v1.0.0) and place model.pkl in the project directory.
+1. Download the Pre-trained Model: Download the model from the [v1.0.0 release](https://github.com/codinglabsong/simple_pet_classifier/releases/tag/v1.0.0) and place model.pkl in the project root directory.
 
 2. Start the Application:
 ```bash
