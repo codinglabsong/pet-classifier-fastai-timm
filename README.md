@@ -27,6 +27,7 @@ A web application that classifies pet breeds from an input image using deep lear
 ## Features
 
 - **Image Classification:** Upload an image and get a probability distribution for various pet breeds.
+- **Fine-tuning:** Transfer learning from resent34 for quicker convergence.
 - **Real-Time Inference:** Powered by Gradio for live, interactive predictions.
 - **Easy Deployment:** Hosted on Hugging Face Spaces for seamless sharing.
 - **Lightweight Codebase:** Built with Fast.ai and timm for efficient training and prototyping.
