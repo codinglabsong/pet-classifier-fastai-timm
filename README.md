@@ -49,7 +49,7 @@ A web application that classifies pet breeds from an input image using deep lear
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/codinglabsong/pet-classifier-fastai-gradio.git
+git clone https://github.com/codinglabsong/pet-classifier-fastai-timm.git
 cd simple_pet_classifier
 ```
 
